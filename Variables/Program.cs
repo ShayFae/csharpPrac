@@ -17,7 +17,7 @@ var greeting = "Hello";
 
 //Creating an Array
 int[] arr = new int[10];
-string[] str = {"Hello", "World"};
+string[] strArr = {"Hello", "World"};
 
 Console.WriteLine("{0},{1},{2},{3},{4},{5},{6}", name, age, pie, zero, boolean, num, greeting);
 
@@ -25,7 +25,7 @@ Console.WriteLine("{0},{1},{2},{3},{4},{5},{6}", name, age, pie, zero, boolean, 
 long bignum;
 bignum = age;
 
-//If not then you converting like this
+//If not then you convert it like this
 float int_to_float = (float)age;
 int float_to_int = (int)zero;
 Console.WriteLine("{0},{1}", int_to_float, float_to_int);

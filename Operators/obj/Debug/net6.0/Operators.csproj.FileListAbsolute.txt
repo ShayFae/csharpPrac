@@ -1,0 +1,15 @@
+/home/labber/games/csharpPrac/Operators/obj/Debug/net6.0/Operators.csproj.AssemblyReference.cache
+/home/labber/games/csharpPrac/Operators/obj/Debug/net6.0/Operators.GeneratedMSBuildEditorConfig.editorconfig
+/home/labber/games/csharpPrac/Operators/obj/Debug/net6.0/Operators.AssemblyInfoInputs.cache
+/home/labber/games/csharpPrac/Operators/obj/Debug/net6.0/Operators.AssemblyInfo.cs
+/home/labber/games/csharpPrac/Operators/obj/Debug/net6.0/Operators.csproj.CoreCompileInputs.cache
+/home/labber/games/csharpPrac/Operators/bin/Debug/net6.0/Operators
+/home/labber/games/csharpPrac/Operators/bin/Debug/net6.0/Operators.deps.json
+/home/labber/games/csharpPrac/Operators/bin/Debug/net6.0/Operators.runtimeconfig.json
+/home/labber/games/csharpPrac/Operators/bin/Debug/net6.0/Operators.dll
+/home/labber/games/csharpPrac/Operators/bin/Debug/net6.0/Operators.pdb
+/home/labber/games/csharpPrac/Operators/obj/Debug/net6.0/Operators.dll
+/home/labber/games/csharpPrac/Operators/obj/Debug/net6.0/refint/Operators.dll
+/home/labber/games/csharpPrac/Operators/obj/Debug/net6.0/Operators.pdb
+/home/labber/games/csharpPrac/Operators/obj/Debug/net6.0/Operators.genruntimeconfig.cache
+/home/labber/games/csharpPrac/Operators/obj/Debug/net6.0/ref/Operators.dll
