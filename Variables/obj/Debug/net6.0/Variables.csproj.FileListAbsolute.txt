@@ -1,0 +1,15 @@
+/home/labber/games/csharpPrac/Variables/obj/Debug/net6.0/Variables.csproj.AssemblyReference.cache
+/home/labber/games/csharpPrac/Variables/obj/Debug/net6.0/Variables.GeneratedMSBuildEditorConfig.editorconfig
+/home/labber/games/csharpPrac/Variables/obj/Debug/net6.0/Variables.AssemblyInfoInputs.cache
+/home/labber/games/csharpPrac/Variables/obj/Debug/net6.0/Variables.AssemblyInfo.cs
+/home/labber/games/csharpPrac/Variables/obj/Debug/net6.0/Variables.csproj.CoreCompileInputs.cache
+/home/labber/games/csharpPrac/Variables/bin/Debug/net6.0/Variables
+/home/labber/games/csharpPrac/Variables/bin/Debug/net6.0/Variables.deps.json
+/home/labber/games/csharpPrac/Variables/bin/Debug/net6.0/Variables.runtimeconfig.json
+/home/labber/games/csharpPrac/Variables/bin/Debug/net6.0/Variables.dll
+/home/labber/games/csharpPrac/Variables/bin/Debug/net6.0/Variables.pdb
+/home/labber/games/csharpPrac/Variables/obj/Debug/net6.0/Variables.dll
+/home/labber/games/csharpPrac/Variables/obj/Debug/net6.0/refint/Variables.dll
+/home/labber/games/csharpPrac/Variables/obj/Debug/net6.0/Variables.pdb
+/home/labber/games/csharpPrac/Variables/obj/Debug/net6.0/Variables.genruntimeconfig.cache
+/home/labber/games/csharpPrac/Variables/obj/Debug/net6.0/ref/Variables.dll
