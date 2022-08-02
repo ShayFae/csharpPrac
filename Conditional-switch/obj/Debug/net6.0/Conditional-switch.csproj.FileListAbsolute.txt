@@ -1,0 +1,15 @@
+/home/labber/games/csharpPrac/Conditional-switch/bin/Debug/net6.0/Conditional-switch
+/home/labber/games/csharpPrac/Conditional-switch/bin/Debug/net6.0/Conditional-switch.deps.json
+/home/labber/games/csharpPrac/Conditional-switch/bin/Debug/net6.0/Conditional-switch.runtimeconfig.json
+/home/labber/games/csharpPrac/Conditional-switch/bin/Debug/net6.0/Conditional-switch.dll
+/home/labber/games/csharpPrac/Conditional-switch/bin/Debug/net6.0/Conditional-switch.pdb
+/home/labber/games/csharpPrac/Conditional-switch/obj/Debug/net6.0/Conditional-switch.csproj.AssemblyReference.cache
+/home/labber/games/csharpPrac/Conditional-switch/obj/Debug/net6.0/Conditional-switch.GeneratedMSBuildEditorConfig.editorconfig
+/home/labber/games/csharpPrac/Conditional-switch/obj/Debug/net6.0/Conditional-switch.AssemblyInfoInputs.cache
+/home/labber/games/csharpPrac/Conditional-switch/obj/Debug/net6.0/Conditional-switch.AssemblyInfo.cs
+/home/labber/games/csharpPrac/Conditional-switch/obj/Debug/net6.0/Conditional-switch.csproj.CoreCompileInputs.cache
+/home/labber/games/csharpPrac/Conditional-switch/obj/Debug/net6.0/Conditional-switch.dll
+/home/labber/games/csharpPrac/Conditional-switch/obj/Debug/net6.0/refint/Conditional-switch.dll
+/home/labber/games/csharpPrac/Conditional-switch/obj/Debug/net6.0/Conditional-switch.pdb
+/home/labber/games/csharpPrac/Conditional-switch/obj/Debug/net6.0/Conditional-switch.genruntimeconfig.cache
+/home/labber/games/csharpPrac/Conditional-switch/obj/Debug/net6.0/ref/Conditional-switch.dll
