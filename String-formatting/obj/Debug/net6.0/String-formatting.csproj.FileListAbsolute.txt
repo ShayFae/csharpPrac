@@ -1,0 +1,15 @@
+/home/labber/games/csharpPrac/String-formatting/obj/Debug/net6.0/String-formatting.csproj.AssemblyReference.cache
+/home/labber/games/csharpPrac/String-formatting/obj/Debug/net6.0/String-formatting.GeneratedMSBuildEditorConfig.editorconfig
+/home/labber/games/csharpPrac/String-formatting/obj/Debug/net6.0/String-formatting.AssemblyInfoInputs.cache
+/home/labber/games/csharpPrac/String-formatting/obj/Debug/net6.0/String-formatting.AssemblyInfo.cs
+/home/labber/games/csharpPrac/String-formatting/obj/Debug/net6.0/String-formatting.csproj.CoreCompileInputs.cache
+/home/labber/games/csharpPrac/String-formatting/bin/Debug/net6.0/String-formatting
+/home/labber/games/csharpPrac/String-formatting/bin/Debug/net6.0/String-formatting.deps.json
+/home/labber/games/csharpPrac/String-formatting/bin/Debug/net6.0/String-formatting.runtimeconfig.json
+/home/labber/games/csharpPrac/String-formatting/bin/Debug/net6.0/String-formatting.dll
+/home/labber/games/csharpPrac/String-formatting/bin/Debug/net6.0/String-formatting.pdb
+/home/labber/games/csharpPrac/String-formatting/obj/Debug/net6.0/String-formatting.dll
+/home/labber/games/csharpPrac/String-formatting/obj/Debug/net6.0/refint/String-formatting.dll
+/home/labber/games/csharpPrac/String-formatting/obj/Debug/net6.0/String-formatting.pdb
+/home/labber/games/csharpPrac/String-formatting/obj/Debug/net6.0/String-formatting.genruntimeconfig.cache
+/home/labber/games/csharpPrac/String-formatting/obj/Debug/net6.0/ref/String-formatting.dll

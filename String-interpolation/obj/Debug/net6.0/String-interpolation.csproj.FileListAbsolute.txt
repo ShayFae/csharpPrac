@@ -1,0 +1,15 @@
+/home/labber/games/csharpPrac/String-interpolation/bin/Debug/net6.0/String-interpolation
+/home/labber/games/csharpPrac/String-interpolation/bin/Debug/net6.0/String-interpolation.deps.json
+/home/labber/games/csharpPrac/String-interpolation/bin/Debug/net6.0/String-interpolation.runtimeconfig.json
+/home/labber/games/csharpPrac/String-interpolation/bin/Debug/net6.0/String-interpolation.dll
+/home/labber/games/csharpPrac/String-interpolation/bin/Debug/net6.0/String-interpolation.pdb
+/home/labber/games/csharpPrac/String-interpolation/obj/Debug/net6.0/String-interpolation.csproj.AssemblyReference.cache
+/home/labber/games/csharpPrac/String-interpolation/obj/Debug/net6.0/String-interpolation.GeneratedMSBuildEditorConfig.editorconfig
+/home/labber/games/csharpPrac/String-interpolation/obj/Debug/net6.0/String-interpolation.AssemblyInfoInputs.cache
+/home/labber/games/csharpPrac/String-interpolation/obj/Debug/net6.0/String-interpolation.AssemblyInfo.cs
+/home/labber/games/csharpPrac/String-interpolation/obj/Debug/net6.0/String-interpolation.csproj.CoreCompileInputs.cache
+/home/labber/games/csharpPrac/String-interpolation/obj/Debug/net6.0/String-interpolation.dll
+/home/labber/games/csharpPrac/String-interpolation/obj/Debug/net6.0/refint/String-interpolation.dll
+/home/labber/games/csharpPrac/String-interpolation/obj/Debug/net6.0/String-interpolation.pdb
+/home/labber/games/csharpPrac/String-interpolation/obj/Debug/net6.0/String-interpolation.genruntimeconfig.cache
+/home/labber/games/csharpPrac/String-interpolation/obj/Debug/net6.0/ref/String-interpolation.dll
