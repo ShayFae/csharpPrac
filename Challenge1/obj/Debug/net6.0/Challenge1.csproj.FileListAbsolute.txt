@@ -1,0 +1,15 @@
+/home/labber/games/csharpPrac/Challenge1/bin/Debug/net6.0/Challenge1
+/home/labber/games/csharpPrac/Challenge1/bin/Debug/net6.0/Challenge1.deps.json
+/home/labber/games/csharpPrac/Challenge1/bin/Debug/net6.0/Challenge1.runtimeconfig.json
+/home/labber/games/csharpPrac/Challenge1/bin/Debug/net6.0/Challenge1.dll
+/home/labber/games/csharpPrac/Challenge1/bin/Debug/net6.0/Challenge1.pdb
+/home/labber/games/csharpPrac/Challenge1/obj/Debug/net6.0/Challenge1.csproj.AssemblyReference.cache
+/home/labber/games/csharpPrac/Challenge1/obj/Debug/net6.0/Challenge1.GeneratedMSBuildEditorConfig.editorconfig
+/home/labber/games/csharpPrac/Challenge1/obj/Debug/net6.0/Challenge1.AssemblyInfoInputs.cache
+/home/labber/games/csharpPrac/Challenge1/obj/Debug/net6.0/Challenge1.AssemblyInfo.cs
+/home/labber/games/csharpPrac/Challenge1/obj/Debug/net6.0/Challenge1.csproj.CoreCompileInputs.cache
+/home/labber/games/csharpPrac/Challenge1/obj/Debug/net6.0/Challenge1.dll
+/home/labber/games/csharpPrac/Challenge1/obj/Debug/net6.0/refint/Challenge1.dll
+/home/labber/games/csharpPrac/Challenge1/obj/Debug/net6.0/Challenge1.pdb
+/home/labber/games/csharpPrac/Challenge1/obj/Debug/net6.0/Challenge1.genruntimeconfig.cache
+/home/labber/games/csharpPrac/Challenge1/obj/Debug/net6.0/ref/Challenge1.dll
