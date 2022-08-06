@@ -1,11 +1,11 @@
 ﻿int x = 1002213123;
 int y = 0;
 
-int v = 50;
-int z = 5;
+// int v = 50;
+// int z = 5;
 
 int result;
-int result2;
+// int result2;
 
 
 try {

@@ -1,0 +1,15 @@
+/home/labber/games/csharpPrac/String-builder/bin/Debug/net6.0/String-builder
+/home/labber/games/csharpPrac/String-builder/bin/Debug/net6.0/String-builder.deps.json
+/home/labber/games/csharpPrac/String-builder/bin/Debug/net6.0/String-builder.runtimeconfig.json
+/home/labber/games/csharpPrac/String-builder/bin/Debug/net6.0/String-builder.dll
+/home/labber/games/csharpPrac/String-builder/bin/Debug/net6.0/String-builder.pdb
+/home/labber/games/csharpPrac/String-builder/obj/Debug/net6.0/String-builder.csproj.AssemblyReference.cache
+/home/labber/games/csharpPrac/String-builder/obj/Debug/net6.0/String-builder.GeneratedMSBuildEditorConfig.editorconfig
+/home/labber/games/csharpPrac/String-builder/obj/Debug/net6.0/String-builder.AssemblyInfoInputs.cache
+/home/labber/games/csharpPrac/String-builder/obj/Debug/net6.0/String-builder.AssemblyInfo.cs
+/home/labber/games/csharpPrac/String-builder/obj/Debug/net6.0/String-builder.csproj.CoreCompileInputs.cache
+/home/labber/games/csharpPrac/String-builder/obj/Debug/net6.0/String-builder.dll
+/home/labber/games/csharpPrac/String-builder/obj/Debug/net6.0/refint/String-builder.dll
+/home/labber/games/csharpPrac/String-builder/obj/Debug/net6.0/String-builder.pdb
+/home/labber/games/csharpPrac/String-builder/obj/Debug/net6.0/String-builder.genruntimeconfig.cache
+/home/labber/games/csharpPrac/String-builder/obj/Debug/net6.0/ref/String-builder.dll

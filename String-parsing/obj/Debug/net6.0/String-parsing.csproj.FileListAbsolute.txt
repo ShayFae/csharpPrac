@@ -1,0 +1,15 @@
+/home/labber/games/csharpPrac/String-parsing/bin/Debug/net6.0/String-parsing
+/home/labber/games/csharpPrac/String-parsing/bin/Debug/net6.0/String-parsing.deps.json
+/home/labber/games/csharpPrac/String-parsing/bin/Debug/net6.0/String-parsing.runtimeconfig.json
+/home/labber/games/csharpPrac/String-parsing/bin/Debug/net6.0/String-parsing.dll
+/home/labber/games/csharpPrac/String-parsing/bin/Debug/net6.0/String-parsing.pdb
+/home/labber/games/csharpPrac/String-parsing/obj/Debug/net6.0/String-parsing.csproj.AssemblyReference.cache
+/home/labber/games/csharpPrac/String-parsing/obj/Debug/net6.0/String-parsing.GeneratedMSBuildEditorConfig.editorconfig
+/home/labber/games/csharpPrac/String-parsing/obj/Debug/net6.0/String-parsing.AssemblyInfoInputs.cache
+/home/labber/games/csharpPrac/String-parsing/obj/Debug/net6.0/String-parsing.AssemblyInfo.cs
+/home/labber/games/csharpPrac/String-parsing/obj/Debug/net6.0/String-parsing.csproj.CoreCompileInputs.cache
+/home/labber/games/csharpPrac/String-parsing/obj/Debug/net6.0/String-parsing.dll
+/home/labber/games/csharpPrac/String-parsing/obj/Debug/net6.0/refint/String-parsing.dll
+/home/labber/games/csharpPrac/String-parsing/obj/Debug/net6.0/String-parsing.pdb
+/home/labber/games/csharpPrac/String-parsing/obj/Debug/net6.0/String-parsing.genruntimeconfig.cache
+/home/labber/games/csharpPrac/String-parsing/obj/Debug/net6.0/ref/String-parsing.dll

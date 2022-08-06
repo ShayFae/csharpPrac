@@ -1,7 +1,7 @@
 ﻿int[] quarters = {1, 2, 3, 4, 5};
 int[] sales = {1000, 2000, 3000, 40000};
 double[] intMixPct = {.212, .567, .734, .129};
-string str = "TestStr";
+// string str = "TestStr";
 int val = 12345;
 decimal val1 = 12345.67891m; 
 
