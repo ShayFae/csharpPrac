@@ -1,0 +1,15 @@
+/home/labber/games/csharpPrac/Functions/Multiple-values/obj/Debug/net6.0/Multiple-values.csproj.AssemblyReference.cache
+/home/labber/games/csharpPrac/Functions/Multiple-values/obj/Debug/net6.0/Multiple-values.GeneratedMSBuildEditorConfig.editorconfig
+/home/labber/games/csharpPrac/Functions/Multiple-values/obj/Debug/net6.0/Multiple-values.AssemblyInfoInputs.cache
+/home/labber/games/csharpPrac/Functions/Multiple-values/obj/Debug/net6.0/Multiple-values.AssemblyInfo.cs
+/home/labber/games/csharpPrac/Functions/Multiple-values/obj/Debug/net6.0/Multiple-values.csproj.CoreCompileInputs.cache
+/home/labber/games/csharpPrac/Functions/Multiple-values/bin/Debug/net6.0/Multiple-values
+/home/labber/games/csharpPrac/Functions/Multiple-values/bin/Debug/net6.0/Multiple-values.deps.json
+/home/labber/games/csharpPrac/Functions/Multiple-values/bin/Debug/net6.0/Multiple-values.runtimeconfig.json
+/home/labber/games/csharpPrac/Functions/Multiple-values/bin/Debug/net6.0/Multiple-values.dll
+/home/labber/games/csharpPrac/Functions/Multiple-values/bin/Debug/net6.0/Multiple-values.pdb
+/home/labber/games/csharpPrac/Functions/Multiple-values/obj/Debug/net6.0/Multiple-values.dll
+/home/labber/games/csharpPrac/Functions/Multiple-values/obj/Debug/net6.0/refint/Multiple-values.dll
+/home/labber/games/csharpPrac/Functions/Multiple-values/obj/Debug/net6.0/Multiple-values.pdb
+/home/labber/games/csharpPrac/Functions/Multiple-values/obj/Debug/net6.0/Multiple-values.genruntimeconfig.cache
+/home/labber/games/csharpPrac/Functions/Multiple-values/obj/Debug/net6.0/ref/Multiple-values.dll

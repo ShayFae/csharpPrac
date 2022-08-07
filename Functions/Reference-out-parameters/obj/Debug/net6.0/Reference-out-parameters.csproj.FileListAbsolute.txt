@@ -1,0 +1,15 @@
+/home/labber/games/csharpPrac/Functions/Reference-out-parameters/obj/Debug/net6.0/Reference-out-parameters.csproj.AssemblyReference.cache
+/home/labber/games/csharpPrac/Functions/Reference-out-parameters/obj/Debug/net6.0/Reference-out-parameters.GeneratedMSBuildEditorConfig.editorconfig
+/home/labber/games/csharpPrac/Functions/Reference-out-parameters/obj/Debug/net6.0/Reference-out-parameters.AssemblyInfoInputs.cache
+/home/labber/games/csharpPrac/Functions/Reference-out-parameters/obj/Debug/net6.0/Reference-out-parameters.AssemblyInfo.cs
+/home/labber/games/csharpPrac/Functions/Reference-out-parameters/obj/Debug/net6.0/Reference-out-parameters.csproj.CoreCompileInputs.cache
+/home/labber/games/csharpPrac/Functions/Reference-out-parameters/bin/Debug/net6.0/Reference-out-parameters
+/home/labber/games/csharpPrac/Functions/Reference-out-parameters/bin/Debug/net6.0/Reference-out-parameters.deps.json
+/home/labber/games/csharpPrac/Functions/Reference-out-parameters/bin/Debug/net6.0/Reference-out-parameters.runtimeconfig.json
+/home/labber/games/csharpPrac/Functions/Reference-out-parameters/bin/Debug/net6.0/Reference-out-parameters.dll
+/home/labber/games/csharpPrac/Functions/Reference-out-parameters/bin/Debug/net6.0/Reference-out-parameters.pdb
+/home/labber/games/csharpPrac/Functions/Reference-out-parameters/obj/Debug/net6.0/Reference-out-parameters.dll
+/home/labber/games/csharpPrac/Functions/Reference-out-parameters/obj/Debug/net6.0/refint/Reference-out-parameters.dll
+/home/labber/games/csharpPrac/Functions/Reference-out-parameters/obj/Debug/net6.0/Reference-out-parameters.pdb
+/home/labber/games/csharpPrac/Functions/Reference-out-parameters/obj/Debug/net6.0/Reference-out-parameters.genruntimeconfig.cache
+/home/labber/games/csharpPrac/Functions/Reference-out-parameters/obj/Debug/net6.0/ref/Reference-out-parameters.dll

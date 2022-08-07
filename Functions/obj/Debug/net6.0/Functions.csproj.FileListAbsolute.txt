@@ -1,0 +1,15 @@
+/home/labber/games/csharpPrac/Functions/bin/Debug/net6.0/Functions
+/home/labber/games/csharpPrac/Functions/bin/Debug/net6.0/Functions.deps.json
+/home/labber/games/csharpPrac/Functions/bin/Debug/net6.0/Functions.runtimeconfig.json
+/home/labber/games/csharpPrac/Functions/bin/Debug/net6.0/Functions.dll
+/home/labber/games/csharpPrac/Functions/bin/Debug/net6.0/Functions.pdb
+/home/labber/games/csharpPrac/Functions/obj/Debug/net6.0/Functions.csproj.AssemblyReference.cache
+/home/labber/games/csharpPrac/Functions/obj/Debug/net6.0/Functions.GeneratedMSBuildEditorConfig.editorconfig
+/home/labber/games/csharpPrac/Functions/obj/Debug/net6.0/Functions.AssemblyInfoInputs.cache
+/home/labber/games/csharpPrac/Functions/obj/Debug/net6.0/Functions.AssemblyInfo.cs
+/home/labber/games/csharpPrac/Functions/obj/Debug/net6.0/Functions.csproj.CoreCompileInputs.cache
+/home/labber/games/csharpPrac/Functions/obj/Debug/net6.0/Functions.dll
+/home/labber/games/csharpPrac/Functions/obj/Debug/net6.0/refint/Functions.dll
+/home/labber/games/csharpPrac/Functions/obj/Debug/net6.0/Functions.pdb
+/home/labber/games/csharpPrac/Functions/obj/Debug/net6.0/Functions.genruntimeconfig.cache
+/home/labber/games/csharpPrac/Functions/obj/Debug/net6.0/ref/Functions.dll

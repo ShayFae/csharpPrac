@@ -1,0 +1,15 @@
+/home/labber/games/csharpPrac/Functions/Named-default-parameters/obj/Debug/net6.0/Named-default-parameters.csproj.AssemblyReference.cache
+/home/labber/games/csharpPrac/Functions/Named-default-parameters/obj/Debug/net6.0/Named-default-parameters.GeneratedMSBuildEditorConfig.editorconfig
+/home/labber/games/csharpPrac/Functions/Named-default-parameters/obj/Debug/net6.0/Named-default-parameters.AssemblyInfoInputs.cache
+/home/labber/games/csharpPrac/Functions/Named-default-parameters/obj/Debug/net6.0/Named-default-parameters.AssemblyInfo.cs
+/home/labber/games/csharpPrac/Functions/Named-default-parameters/obj/Debug/net6.0/Named-default-parameters.csproj.CoreCompileInputs.cache
+/home/labber/games/csharpPrac/Functions/Named-default-parameters/bin/Debug/net6.0/Named-default-parameters
+/home/labber/games/csharpPrac/Functions/Named-default-parameters/bin/Debug/net6.0/Named-default-parameters.deps.json
+/home/labber/games/csharpPrac/Functions/Named-default-parameters/bin/Debug/net6.0/Named-default-parameters.runtimeconfig.json
+/home/labber/games/csharpPrac/Functions/Named-default-parameters/bin/Debug/net6.0/Named-default-parameters.dll
+/home/labber/games/csharpPrac/Functions/Named-default-parameters/bin/Debug/net6.0/Named-default-parameters.pdb
+/home/labber/games/csharpPrac/Functions/Named-default-parameters/obj/Debug/net6.0/Named-default-parameters.dll
+/home/labber/games/csharpPrac/Functions/Named-default-parameters/obj/Debug/net6.0/refint/Named-default-parameters.dll
+/home/labber/games/csharpPrac/Functions/Named-default-parameters/obj/Debug/net6.0/Named-default-parameters.pdb
+/home/labber/games/csharpPrac/Functions/Named-default-parameters/obj/Debug/net6.0/Named-default-parameters.genruntimeconfig.cache
+/home/labber/games/csharpPrac/Functions/Named-default-parameters/obj/Debug/net6.0/ref/Named-default-parameters.dll
