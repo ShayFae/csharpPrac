@@ -1,0 +1,15 @@
+/home/labber/games/csharpPrac/Classes/Inheritance/obj/Debug/net6.0/Inheritance.csproj.AssemblyReference.cache
+/home/labber/games/csharpPrac/Classes/Inheritance/obj/Debug/net6.0/Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/home/labber/games/csharpPrac/Classes/Inheritance/obj/Debug/net6.0/Inheritance.AssemblyInfoInputs.cache
+/home/labber/games/csharpPrac/Classes/Inheritance/obj/Debug/net6.0/Inheritance.AssemblyInfo.cs
+/home/labber/games/csharpPrac/Classes/Inheritance/obj/Debug/net6.0/Inheritance.csproj.CoreCompileInputs.cache
+/home/labber/games/csharpPrac/Classes/Inheritance/bin/Debug/net6.0/Inheritance
+/home/labber/games/csharpPrac/Classes/Inheritance/bin/Debug/net6.0/Inheritance.deps.json
+/home/labber/games/csharpPrac/Classes/Inheritance/bin/Debug/net6.0/Inheritance.runtimeconfig.json
+/home/labber/games/csharpPrac/Classes/Inheritance/bin/Debug/net6.0/Inheritance.dll
+/home/labber/games/csharpPrac/Classes/Inheritance/bin/Debug/net6.0/Inheritance.pdb
+/home/labber/games/csharpPrac/Classes/Inheritance/obj/Debug/net6.0/Inheritance.dll
+/home/labber/games/csharpPrac/Classes/Inheritance/obj/Debug/net6.0/refint/Inheritance.dll
+/home/labber/games/csharpPrac/Classes/Inheritance/obj/Debug/net6.0/Inheritance.pdb
+/home/labber/games/csharpPrac/Classes/Inheritance/obj/Debug/net6.0/Inheritance.genruntimeconfig.cache
+/home/labber/games/csharpPrac/Classes/Inheritance/obj/Debug/net6.0/ref/Inheritance.dll

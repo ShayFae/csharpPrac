@@ -11,8 +11,8 @@
       Console.WriteLine(b1.GetDescription());
       Console.WriteLine(b2.GetDescription());
 
-      b1._name = "Aldous Huxley";
-
+      b1._name = "Cat in the hat";
+      Console.WriteLine(b1.GetDescription());
 
     }
   }
