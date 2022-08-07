@@ -1,0 +1,15 @@
+/home/labber/games/csharpPrac/Classes/Defining/obj/Debug/net6.0/Defining.csproj.AssemblyReference.cache
+/home/labber/games/csharpPrac/Classes/Defining/obj/Debug/net6.0/Defining.GeneratedMSBuildEditorConfig.editorconfig
+/home/labber/games/csharpPrac/Classes/Defining/obj/Debug/net6.0/Defining.AssemblyInfoInputs.cache
+/home/labber/games/csharpPrac/Classes/Defining/obj/Debug/net6.0/Defining.AssemblyInfo.cs
+/home/labber/games/csharpPrac/Classes/Defining/obj/Debug/net6.0/Defining.csproj.CoreCompileInputs.cache
+/home/labber/games/csharpPrac/Classes/Defining/bin/Debug/net6.0/Defining
+/home/labber/games/csharpPrac/Classes/Defining/bin/Debug/net6.0/Defining.deps.json
+/home/labber/games/csharpPrac/Classes/Defining/bin/Debug/net6.0/Defining.runtimeconfig.json
+/home/labber/games/csharpPrac/Classes/Defining/bin/Debug/net6.0/Defining.dll
+/home/labber/games/csharpPrac/Classes/Defining/bin/Debug/net6.0/Defining.pdb
+/home/labber/games/csharpPrac/Classes/Defining/obj/Debug/net6.0/Defining.dll
+/home/labber/games/csharpPrac/Classes/Defining/obj/Debug/net6.0/refint/Defining.dll
+/home/labber/games/csharpPrac/Classes/Defining/obj/Debug/net6.0/Defining.pdb
+/home/labber/games/csharpPrac/Classes/Defining/obj/Debug/net6.0/Defining.genruntimeconfig.cache
+/home/labber/games/csharpPrac/Classes/Defining/obj/Debug/net6.0/ref/Defining.dll
